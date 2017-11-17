@@ -1,4 +1,6 @@
 # What
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fleela-zero.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fleela-zero?ref=badge_shield)
+
 
 A Go program with no human provided knowledge. Using MCTS (but without
 Monte Carlo playouts) and a deep residual convolutional neural network stack.
@@ -256,3 +258,6 @@ done with multiple processes each bound to a GPU)
 The code is released under the GPLv3 or later, except for ThreadPool.h and
 cl2.hpp, which have specific licenses (compatible with GPLv3) mentioned in
 those files.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fleela-zero.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fleela-zero?ref=badge_large)
